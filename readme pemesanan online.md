@@ -51,7 +51,7 @@ Proyek ini adalah platform berbasis web yang dirancang untuk memfasilitasi pemas
      $servername = "localhost";
      $username = "root";
      $password = "";
-     $dbname = "pemasaran_online";
+     $dbname = "pemesanan_online";
      ```
 
 5. **Jalankan Proyek**
